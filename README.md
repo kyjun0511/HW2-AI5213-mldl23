@@ -1,1 +1,5 @@
-# HW2-AI5213-mldl23
+Name: (KIM YONGJUNE)
+
+Student ID: (20235039)
+
+Instructions: ()
